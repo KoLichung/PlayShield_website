@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="PlayShield">
-  <rect width="128" height="128" rx="28" fill="#0B0B0F"/>
-  <path fill="#4FD1C5" d="M64 16C45.2 16 30 31.2 30 50c0 24 26.5 52.4 32.3 59.2a2.4 2.4 0 0 0 3.4 0C71.5 102.4 98 74 98 50 98 31.2 82.8 16 64 16zm0 46a12 12 0 1 1 0-24 12 12 0 0 1 0 24z"/>
-  <circle cx="64" cy="50" r="7" fill="#0B0B0F"/>
-</svg>
